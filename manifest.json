@@ -1,0 +1,11 @@
+{
+    "name": "Sarcasm Converter",
+    "version": "1.0.0",
+    "description": "Convert any text to sarcasm. 'sarcasm' => 'sArCaSm'",
+    "author": "Ari",
+    "license": "MIT",
+    "repo": "",
+    "dependencies": [
+        "pc-commands"
+    ]
+}
