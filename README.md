@@ -10,7 +10,7 @@ This plugin will convert any text to sarcasm text. e.g.
   
 
 
-# Installing
+## Installing
 
 Use   
 ```bash
@@ -18,3 +18,9 @@ git clone https://github.com/Ari24-cb24/powercord-sarcasm.git
 ```
 
 in your ``powercord/src/Powercord/plugins`` folder
+
+
+## Commands
+
+- ``.sarcasm``
+- ``.sarc`` Alias for sarcasm
