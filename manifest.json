@@ -4,7 +4,7 @@
     "description": "Convert any text to sarcasm. 'sarcasm' => 'sArCaSm'",
     "author": "Ari",
     "license": "MIT",
-    "repo": "",
+    "repo": "https://github.com/Ari24-cb24/powercord-sarcasm.git",
     "dependencies": [
         "pc-commands"
     ]
