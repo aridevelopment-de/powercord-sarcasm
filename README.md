@@ -4,6 +4,12 @@ This plugin will convert any text to sarcasm text. e.g.
   
 "I wonder why that is so" => "I WoNdEr WhY tHaT iS sO"
 
+![preview1](https://i.imgur.com/NkKxORw.png)
+  
+![preview2](https://i.imgur.com/Dkv5HVe.png)
+  
+
+
 # Installing
 
 Use   
